@@ -1,6 +1,6 @@
-# DLND-first-neural-network
+# Overview
 
-This is the git repository for Udacity Deep Learning Nanodegree Foundation assignment 1. It implements a simple neural network for bike ridership prediction based on the dataset available in the Bike-Sharing-Dataset folder.
+In a typical bike sharing company, an owner may suffer from loss by buying more or less bikes. In this project, I have predicted how many bikes are required to fulfill the supply using historical data present in the dataset available in the Bike-Sharing-Dataset folder.
 
 # Running the code
 
