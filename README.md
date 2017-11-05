@@ -6,8 +6,8 @@ In a typical bike sharing company, an owner may suffer from loss by buying more 
 
 If you want to run the notebook(using anaconda)
 ```shell
-    git clone https://github.com/pratzz/DLND-first-neural-network.git
-    cd DLND-first-neural-network
+    git clone https://github.com/pratzz/Bike-Sharing-Prediction.git
+    cd Bike-Sharing-Prediction
     # Create a conda environment if you want or use one you already have
     conda create --name YOUR_ENV_NAME python=3
     source activate YOUR_ENV_NAME
