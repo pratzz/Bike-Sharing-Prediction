@@ -6,7 +6,7 @@ In a typical bike sharing company, an owner may suffer from loss by buying more 
 
 If you want to run the notebook(using anaconda)
 ```shell
-    git clone https://github.com/RomelTorres/DLND-first-neural-network.git
+    git clone https://github.com/pratzz/DLND-first-neural-network.git
     cd DLND-first-neural-network
     # Create a conda environment if you want or use one you already have
     conda create --name YOUR_ENV_NAME python=3
