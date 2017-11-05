@@ -1,6 +1,6 @@
 # Overview
 
-In a typical bike sharing company, an owner may suffer from loss by buying more or less bikes. In this project, I have predicted how many bikes are required to fulfill the supply using historical data present in the dataset available in the Bike-Sharing-Dataset folder.
+In a typical bike sharing company, an owner may suffer from loss by buying more or less bikes. In this project, I have predicted how many bikes are required to fulfill the supply using historical data present in the dataset available in the Bike-Sharing-Dataset folder. This is my first assignment for Udacity Deep Learning Nanodegree Foundation 1.
 
 # Running the code
 
